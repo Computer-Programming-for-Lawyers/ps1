@@ -40,15 +40,10 @@ Okay, now it's time to create a Codespace. Like we said earlier, right now you s
 
 How to create a Codespace:
 1. Click the green "Code" button pictured here:
-
-<img src="codespaces-step1.png">
+![codespaces-step1](https://github.com/user-attachments/assets/e6fab182-b24a-4f5d-8785-b69f543519a0)
 
 2. In the menu that opens, select "Create codespace on main": 
+![codespaces-step2](https://github.com/user-attachments/assets/955c2571-6a8d-49a2-be91-7ea9d2efa4ab)
 
-<img src="codespaces-step2.png">
-
-3. That should open a new tab. It may take a few moments to load. While it loads, you should see this:
-
-<img src="codespaces-step3.png">
-
+3. That should open a new tab. It may take a few moments to load.
 4. Once your codespace opens, you'll see instructions for next steps on the screen. Don't worry, you can still access these instructions again later.
