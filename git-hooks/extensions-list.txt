@@ -1,8 +1,6 @@
-Extensions installed on Codespaces: sturdy giggle:
+Extensions installed on Codespaces: vigilant space goldfish:
 dbaeumer.vscode-eslint
 github.codespaces
-github.copilot
-github.copilot-chat
 github.github-vscode-theme
 github.vscode-pull-request-github
 ms-python.autopep8
