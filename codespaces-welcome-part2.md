@@ -13,7 +13,7 @@ This is your file explorer. It shows all the files pertaining to your Codespace.
 
 ![image](images/file%20explorer.PNG)
 
-### 3. The Navigation Pane
+### 3. The Navigation Pane Test
 
 This is your navigation pane. You can largely ignore this for now, we’ll get more comfortable with it throughout the course.
 
