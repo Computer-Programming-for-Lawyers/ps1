@@ -37,3 +37,8 @@ Now, take a look at your full screen. Everything you see is the full interface w
 ### Next Steps
 
 Now that you've gotten acquainted, let's try interacting with the terminal (remember, that's the section taking up the bottom middle and right of your screen). To access the instructions that follow type "**code ps0-instructions.md**" (exactly as shown without quotes) into the terminal and hit enter. That should open the instructions for your problem set. 
+
+> [!TIP]
+> If you click in your terminal and don't see a line starting with your username in green, hit enter a few times and it should pop up. Then you can enter your command.
+
+[!image](images/terminal-trouble.PNG)
