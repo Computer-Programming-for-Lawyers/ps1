@@ -1,5 +1,4 @@
 #!/bin/bash
-code --install-extension vsls-contrib.gitdoc
 
 # Adjust GitDoc to auto-commit every 5 minutes
 settings_path="$HOME/.config/Code/User/settings.json"
@@ -10,3 +9,6 @@ touch "$settings_path"
 
 # Add or update the autoCommitDelay setting
 jq '.["gitdoc.autoCommitDelay"] = 300' "$settings_path" > tmp.$$.json && mv tmp.$$.json "$settings_path"
+
+# Enable GitDoc in the settings.json
+jq '.["gitdoc.enable"] = true' "$settings_path" > tmp.$$.json && mv tmp.$$.json "$settings_path"
