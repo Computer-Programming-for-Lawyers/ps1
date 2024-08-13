@@ -1,9 +1,0 @@
-Extensions installed on Codespaces: vigilant space goldfish:
-dbaeumer.vscode-eslint
-github.codespaces
-github.github-vscode-theme
-github.vscode-pull-request-github
-ms-python.autopep8
-ms-python.debugpy
-ms-python.python
-ms-python.vscode-pylance
