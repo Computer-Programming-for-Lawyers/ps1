@@ -41,4 +41,4 @@ Now that you've gotten acquainted, let's try interacting with the terminal (reme
 > [!TIP]
 > If you click in your terminal and don't see a line starting with your username in green, hit enter a few times and it should pop up. Then you can enter your command.
 
-[!image](images/terminal-trouble.PNG)
+![image](images/terminal-trouble.PNG)
