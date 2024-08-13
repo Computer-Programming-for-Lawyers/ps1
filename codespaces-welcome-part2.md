@@ -1,5 +1,5 @@
 # Congrats! If you're seeing this, you've probably just created a Codespace for the first time. That's awesome.
-The rest of this problem set is designed to get you acquainted with the interface. We'll be spending a lot of time here this semester.
+The rest of this problem set is designed to get you acquainted with the interface. We'll be spending a lot of time here this semester, so read closely.
 
 ## 1. The coding space
 
