@@ -32,9 +32,6 @@ if [ "$LOCAL" = "$REMOTE" ]; then
         
         exit 0  # Exit with a zero status to indicate success
     fi
-elif [ "$LOCAL" = "$BASE" ]; then
-    echo "Local branch is behind the remote branch. Please pull the latest changes."
-    exit 1  # Exit with a non-zero status to indicate failure
 elif [ "$REMOTE" = "$BASE" ]; then
     echo "Local branch is ahead of the remote branch. Auto-committing and pushing changes."
     # Add all changes to the staging area
@@ -48,6 +45,7 @@ elif [ "$REMOTE" = "$BASE" ]; then
     
     exit 0  # Exit with a zero status to indicate success
 else
-    echo "Local and remote branches have diverged. Manual intervention is required."
-    exit 1  # Exit with a non-zero status to indicate failure
+    # Local branch is either behind or diverged, but we proceed without error.
+    echo "Local branch is either behind the remote branch or has diverged. Skipping push to avoid conflicts."
+    exit 0  # Exit with a zero status to indicate success, but no push occurs.
 fi
