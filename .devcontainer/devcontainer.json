@@ -1,8 +1,10 @@
 {
     "name": "Python Project",
-    "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
-    "postCreateCommand": "pip3 install --user -r .devcontainer/requirements.txt && .devcontainer/scripts/setup-hooks.sh && pip install notebook ipykernel && python -m ipykernel install --user --name=my_kernel",
-    "postAttachCommand": "/bin/bash .devcontainer/scripts/start-autocommit.sh; /bin/bash .devcontainer/scripts/start.sh",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "postCreateCommand": "pip3 install --user -r .devcontainer/requirements.txt && .devcontainer/scripts/setup-hooks.sh",
+    "postAttachCommand": "/bin/bash .devcontainer/scripts/start-autocommit.sh; /bin/bash .devcontainer/scripts/start.sh", //gitdoc
     "customizations": {
         "vscode": {
             "settings": {
@@ -11,8 +13,5 @@
                 }
             }
         }
-    },
-    "features": {
-        "ghcr.io/devcontainers/features/jupyter:1": {}
     }
 }
