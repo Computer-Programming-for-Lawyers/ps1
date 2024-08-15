@@ -1,0 +1,4 @@
+Extensions installed on Codespaces: vigilant space goldfish:
+github.codespaces
+github.github-vscode-theme
+vsls-contrib.gitdoc
