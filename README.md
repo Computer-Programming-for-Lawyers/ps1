@@ -10,7 +10,7 @@ The rest of this guide will walk you through how to set up and start using GitHu
 
 You should be reading this in what we call a **GitHub Repository.** Think of repositories as a folder where you can store your code, your files, and each file's revision history. 
 
-When you accepted this first assignment, **GitHub Classroom** (the tool you'll use to complete all problem sets this semester) created a private repository just for your assignment. That's why you should see your GitHub username at the top of this page. If you don't see your username, make sure you've [created a GitHub account](https://github.com/join) and accepted [the assignment]("https://classroom.github.com/a/1IdAl12T").
+When you accepted this first assignment, **GitHub Classroom** (the tool you'll use to complete all problem sets this semester) created a private repository just for your assignment. That's why you should see your GitHub username at the top of this page. If you don't see your username, make sure you've [created a GitHub account](https://github.com/join) and accepted [the assignment](https://classroom.github.com/a/1IdAl12T).
 
 GitHub allows you to create a Codespace, the programming interface we'll use this semester, for any repository. That means each problem set will follow the below steps:
 1. We'll send you a link to the problem set assignment, which is housed in GitHub Classroom.
