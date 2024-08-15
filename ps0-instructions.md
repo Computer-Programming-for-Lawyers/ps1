@@ -1,7 +1,7 @@
-# Problem Set 0 Instructions
+# Problem Set 1 Instructions
 If you've gotten here, you should feel highly accomplished. Particularly for those new to programming, sometimes just getting the infrastructure set up is the hardest part.
 
-## Problem Set 0: Print "Hello, World!"
+## Problem Set 1: Print "Hello, World!"
 Your first problem set is one of the most well-known programming tasks there is. The goal is to write a simple program that prints "Hello, World!".
 
 ### Step 1: Create a Jupyter Notebook
