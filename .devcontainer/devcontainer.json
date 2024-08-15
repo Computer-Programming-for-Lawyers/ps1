@@ -3,7 +3,7 @@
     "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
     // "postCreateCommand": ".devcontainer/scripts/start-autocommit.sh"
     "postCreateCommand": "pip3 install --user -r .devcontainer/requirements.txt && .devcontainer/scripts/setup-hooks.sh",
-    "postAttachCommand": "/bin/bash .devcontainer/scripts/install_gdoc.sh;  code --command 'gitdoc.enable'",
+    "postAttachCommand": "/bin/bash .devcontainer/scripts/install_gdoc.sh; /bin/bash .devcontainer/scripts/start.sh",
     "customizations": {
         "vscode": {
             "settings": {
@@ -13,12 +13,7 @@
                 },
             "extensions": [
                 "vsls-contrib.gitdoc"
-            ],
-            "codespaces": {
-                "openFiles": [
-                "codespaces-welcome-part2.md"
                 ]
-            }
         }
     }
 }
