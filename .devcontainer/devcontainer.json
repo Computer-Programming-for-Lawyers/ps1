@@ -10,10 +10,7 @@
                 "workbench.editorAssociations": {
                     "*.md": "vscode.markdown.preview.editor" //opens md as preview by default
                     }
-                 } //,
-            // "extensions": [
-            //     "vsls-contrib.gitdoc"
-            //     ]
+                 }
         }
     }
 }
