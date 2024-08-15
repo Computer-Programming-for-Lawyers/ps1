@@ -7,5 +7,3 @@ ms-python.autopep8
 ms-python.debugpy
 ms-python.python
 ms-python.vscode-pylance
-vsls-contrib.gitdoc
-TESTING
