@@ -16,7 +16,7 @@ Once you've created the pso.ipynb file, find and click on the file in your file 
 
 #### Tip: Select Kernel
 
-In order to start coding, you have to [select a Kernel]("https://code.visualstudio.com/docs/datascience/jupyter-kernel-management") in the top right of your screen. Kernels execute the code you write. Follow the recommended steps as prompted by Codespaces, you can see what that might look like here:
+In order to start coding, you have to [select a Kernel](https://code.visualstudio.com/docs/datascience/jupyter-kernel-management) in the top right of your screen. Kernels execute the code you write. Follow the recommended steps as prompted by Codespaces, you can see what that might look like here:
 
 ![image](images/noterbook-kernel-picker.gif)
 
