@@ -3,17 +3,17 @@
     "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
     // "postCreateCommand": ".devcontainer/scripts/start-autocommit.sh"
     "postCreateCommand": "pip3 install --user -r .devcontainer/requirements.txt && .devcontainer/scripts/setup-hooks.sh",
-    "postAttachCommand": "/bin/bash .devcontainer/scripts/install_gdoc.sh; /bin/bash .devcontainer/scripts/start.sh",
+    "postAttachCommand": "/bin/bash .devcontainer/scripts/start-autocommit.sh; /bin/bash .devcontainer/scripts/start.sh", //gitdoc
     "customizations": {
         "vscode": {
             "settings": {
                 "workbench.editorAssociations": {
                     "*.md": "vscode.markdown.preview.editor" //opens md as preview by default
                     }
-                },
-            "extensions": [
-                "vsls-contrib.gitdoc"
-                ]
+                 } //,
+            // "extensions": [
+            //     "vsls-contrib.gitdoc"
+            //     ]
         }
     }
 }
