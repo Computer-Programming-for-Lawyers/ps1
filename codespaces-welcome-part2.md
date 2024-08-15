@@ -32,7 +32,7 @@ This area serves multiple purposes, but we’ll primarily be using it to access 
 
 ### 5. Full Interface
 
-Now, take a look at your full screen. Everything you see is the full interface where you can see the file explorer, navigation pane, coding space, and terminal together. Look around and get comfortable with what you see. 
+Now, take a look at your full screen. Everything you see is the interface where you can see the file explorer, navigation pane, coding space, and terminal together. Look around and get comfortable with what you see. 
 
 ### Next Steps
 
