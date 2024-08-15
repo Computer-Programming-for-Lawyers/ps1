@@ -1,16 +1,18 @@
 {
     "name": "Python Project",
     "image": "mcr.microsoft.com/vscode/devcontainers/python:3.8",
-    // "postCreateCommand": ".devcontainer/scripts/start-autocommit.sh"
-    "postCreateCommand": "pip3 install --user -r .devcontainer/requirements.txt && .devcontainer/scripts/setup-hooks.sh",
+    "postCreateCommand": "pip3 install --user -r .devcontainer/requirements.txt && .devcontainer/scripts/setup-hooks.sh && pip install notebook ipykernel && python -m ipykernel install --user --name=my_kernel",
     "postAttachCommand": "/bin/bash .devcontainer/scripts/start-autocommit.sh; /bin/bash .devcontainer/scripts/start.sh",
     "customizations": {
         "vscode": {
             "settings": {
                 "workbench.editorAssociations": {
                     "*.md": "vscode.markdown.preview.editor" //opens md as preview by default
-                    }
-                 }
+                }
+            }
         }
+    },
+    "features": {
+        "ghcr.io/devcontainers/features/jupyter:1": {}
     }
 }
