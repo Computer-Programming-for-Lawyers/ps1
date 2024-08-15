@@ -32,9 +32,9 @@ This area serves multiple purposes, but we’ll primarily be using it to access 
 
 ### 5. Full Interface
 
-Now, take a look at your full screen. Everything you see is the interface where you can see the file explorer, navigation pane, coding space, and terminal together. Look around and get comfortable with what you see. 
+Now, take a look at your full screen. Everything you see is the interface where you can see the file explorer, navigation pane, coding space, and terminal together. Look around and get comfortable. 
 
-### Next Steps
+## Next Steps
 
 Now that you've gotten acquainted, let's try interacting with the terminal (remember, that's the section taking up the bottom middle and right of your screen). To access the instructions that follow type "**code ps0-instructions.md**" (exactly as shown without quotes) into the terminal and hit enter. That should open the instructions for your problem set. 
 
