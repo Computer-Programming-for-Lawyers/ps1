@@ -16,9 +16,10 @@ Once you've created the pso.ipynb file, find and click on the file in your file 
 
 ### Step 3: Submit Assignment
 Once you've completed the assignment, we'll practice "pushing" changes as a means of submitting your assignment. Back in the terminal again, do the following:
-> [!TIP]
-> GitHub Classroom is a bit odd and doesn't have a formal "submit" button. We have access to your progress, so don't worry about work getting lost. But once you follow the below steps, we'll consider your assignment officially submitted.
 
 #### Type **git add .** to add all changes to the list of updates to make.
 #### Type **"git commit -m "submit assignment"** to indicate what changes you've made
 #### Type **"git push"** to save the changes you've made.
+
+> [!TIP]
+> GitHub Classroom is a bit odd and doesn't have a formal "submit" button. We have access to your progress, so don't worry about work getting lost. But once you follow the below steps, we'll consider your assignment officially submitted.
