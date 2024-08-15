@@ -11,6 +11,9 @@ Where you're reading right now is what we'll call the coding space. This is the 
 
 This is your file explorer. It shows all the files pertaining to your Codespace. In most cases, they reflect exactly what's in the GitHub repository you used to create this Codespace.
 
+> [!WARNING]
+> Don't edit the ".devcontainer" or "git-hooks" folders. We've set those up to make your programming easier. If you edit or delete them, it could impact your ability to complete or submit your assignment. 
+
 ![image](images/file%20explorer.PNG)
 
 ### 3. The Navigation Pane
@@ -18,9 +21,6 @@ This is your file explorer. It shows all the files pertaining to your Codespace.
 This is your navigation pane. You can largely ignore this for now, we’ll get more comfortable with it throughout the course.
 
 You can click the top document icon to get back to the file explorer.
-
-> [!WARNING]
-> Don't edit the ".devcontainer" or "git-hooks" folders. We've set those up to make your programming easier. If you edit or delete them, it could impact your ability to complete or submit your assignment. 
 
 ![image](images/navigation.PNG)
 
