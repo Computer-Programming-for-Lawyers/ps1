@@ -1,4 +1,4 @@
-# Getting Started with Codespaces (Read Me First!)
+# Getting Started with Codespaces (Read Me First)
 
 Welcome to Computer Programming for Lawyers!
 
@@ -45,5 +45,5 @@ How to create a Codespace:
 2. In the menu that opens, select "Create codespace on main": 
 ![codespaces-step2](images/codespaces-step2.png)
 
-3. That should open a new tab. It may take a few moments to load.
+3. That should open a new tab. It will take a few minutes to load.
 4. Once your codespace opens, you'll see instructions for next steps on the screen. Don't worry, you can still access these instructions again later.
