@@ -20,6 +20,8 @@ In order to start coding, you have to [select a Kernel](https://code.visualstudi
 
 ![image](images/noterbook-kernel-picker.gif)
 
+You may also have to install and enable Python and Jupyter Notebook, as prompted by Codespaces.
+
 ### Step 3: Submit Assignment
 Once you've completed the assignment, we'll practice "pushing" changes as a means of submitting your assignment. Back in the terminal again, do the following:
 
