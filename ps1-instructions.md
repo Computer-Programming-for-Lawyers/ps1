@@ -9,7 +9,7 @@ Before we start coding, we need to create a file in which to write the code. We'
 
 To create a new notebook, we'll use the terminal again. Type the following in your terminal to create a new notebook: ```touch ps1.ipynb```
 
-Once you do that, you should see "ps0.ipynb" in the file explorer on the left-hand side of your screen. You may need to go between this file and that file while you're coding. The file you're reading now is called "ps0-instructions.md" and you can access it through the tabs along the top of your screen, or through the file explorer.
+Once you do that, you should see "ps1.ipynb" in the file explorer on the left-hand side of your screen. You may need to go between this file and that file while you're coding. The file you're reading now is called "ps1-instructions.md" and you can access it through the tabs along the top of your screen, or through the file explorer.
 
 ### Step 2: Open File and Print "Hello, World!"
 Once you've created the pso.ipynb file, find and click on the file in your file terminal. That should open a blank Jupyter Notebook. Once that's open, your goal is to print the words "Hello, World!" exactly. You are welcome to consult online resources, but I recommend trying on your own first. 
