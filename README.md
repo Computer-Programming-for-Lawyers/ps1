@@ -1,4 +1,4 @@
-# Getting Started with Codespaces
+# Getting Started with Codespaces (Read Me First!)
 
 Welcome to Computer Programming for Lawyers!
 
@@ -35,8 +35,8 @@ We mentioned repositories already, they are where your project work happens, but
 
 Repositories also contain **README**s. You can add a README file to your repository to tell other people about your project. We are using this README to communicate how to learn GitHub with you, and we'll include problem set instructions there throughout the course.
 
-## Let's go! How to Create a Codespace and Complete Problem Set 0
-Okay, now it's time to create a Codespace. Like we said earlier, right now you should be reading this in the ps0 repository (that means near the top of your screen you should see ps0-*your username*). *If you see something else, go back to the pre-requisites section at the top.*
+## Let's go! How to Create a Codespace and Complete Problem Set 1
+Okay, now it's time to create a Codespace. Like we said earlier, right now you should be reading this in the ps0 repository (that means near the top of your screen you should see ps1-*your username*). *If you see something else, go back to the pre-requisites section at the top.*
 
 How to create a Codespace:
 1. Click the green "Code" button pictured here:
